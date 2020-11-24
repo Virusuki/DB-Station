@@ -12,13 +12,14 @@
 |**Image/Video information** | <center>Reconstruction data</center> |<center>Brain neural circuit mapping(Nano)</center> |*DVID* |*1unit* |*.raw, .h5* |*cell, Brain region* |
 
 ## Data API function
-Molecular information()
-MolecularFunctionObject()
+*Molecular information()
+*MolecularFunctionObject()
+
 - Omics()
-Omics.Proteomics.2unit
-Omics.Proteomics.3unit
-Omics.transcriptomics.2unit
-Omics.transcriptomics.3unit
+*Omics.Proteomics.2unit
+*Omics.Proteomics.3unit
+*Omics.transcriptomics.2unit
+*Omics.transcriptomics.3unit
  
  Image/Video information()
 - Macro()
