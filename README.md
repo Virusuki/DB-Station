@@ -10,3 +10,6 @@ hierarchical classification
 |**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |*cell 1x3* |*cell 1x3* |*cell 1x3* |*cell 1x3* |
 |**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |*cell 1x3* |*cell 1x3* |*cell 1x3* |*cell 1x3* |
 
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | :------: | -------- | -------- |
+| No span  | Span across three columns    |||
