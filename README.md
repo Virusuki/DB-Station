@@ -14,18 +14,18 @@
 ## Data API function
 Molecular information()
 MolecularFunctionObject()
- - Omics()
- -> Omics.Proteomics.2unit
- -> Omics.Proteomics.3unit
- -> Omics.transcriptomics.2unit
- -> Omics.transcriptomics.3unit
+- Omics()
+-> Omics.Proteomics.2unit
+-> Omics.Proteomics.3unit
+-> Omics.transcriptomics.2unit
+-> Omics.transcriptomics.3unit
  
  Image/Video information()
-  - Macro()
-  -> Macro.MRI_fMRI()
+- Macro()
+-> Macro.MRI_fMRI()
   
-  - Micro()
-  -> Micro.EM()
+- Micro()
+-> Micro.EM()
   
-  - Reconstruction_Nano()
-  -> Nano.recon() 
+- Reconstruction_Nano()
+-> Nano.recon() 
