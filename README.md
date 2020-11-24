@@ -1,6 +1,6 @@
 # DB-Station
 
-Brain science data classification
+- Brain science data classification
 
 
 |  <center>Major classification leve</center> |  <center>Middle classification level</center> |  <center>Sub classification level</center> |<center>Reference international standard</center> |<center>Unit</center> |<center>File format</center> |<center>etc</center> |
