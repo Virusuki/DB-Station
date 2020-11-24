@@ -13,7 +13,7 @@
 
 ## Data API function
 *Molecular information()
-MolecularFunctionObject()
+- MolecularFunctionObject()
 
 #Omics()
 - Omics.Proteomics.2unit
@@ -21,12 +21,12 @@ MolecularFunctionObject()
 - Omics.transcriptomics.2unit
 - Omics.transcriptomics.3unit
  
- Image/Video information()
+#Image/Video information()
 - Macro()
-Macro.MRI_fMRI()
+- Macro.MRI_fMRI()
   
-- Micro()
-Micro.EM()
+# Micro()
+- Micro.EM()
   
-- Reconstruction_Nano()
-Nano.recon() 
+# Reconstruction_Nano()
+- Nano.recon() 
