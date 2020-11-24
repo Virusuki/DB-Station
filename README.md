@@ -15,17 +15,17 @@
 Molecular information()
 MolecularFunctionObject()
 - Omics()
--> Omics.Proteomics.2unit
--> Omics.Proteomics.3unit
--> Omics.transcriptomics.2unit
--> Omics.transcriptomics.3unit
+Omics.Proteomics.2unit
+Omics.Proteomics.3unit
+Omics.transcriptomics.2unit
+Omics.transcriptomics.3unit
  
  Image/Video information()
 - Macro()
--> Macro.MRI_fMRI()
+Macro.MRI_fMRI()
   
 - Micro()
--> Micro.EM()
+Micro.EM()
   
 - Reconstruction_Nano()
--> Nano.recon() 
+Nano.recon() 
